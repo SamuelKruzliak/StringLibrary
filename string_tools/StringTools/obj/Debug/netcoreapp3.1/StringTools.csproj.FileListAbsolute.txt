@@ -1,0 +1,10 @@
+/home/samuel/Documents/string_tools/StringTools/bin/Debug/netcoreapp3.1/StringTools.deps.json
+/home/samuel/Documents/string_tools/StringTools/bin/Debug/netcoreapp3.1/StringTools.dll
+/home/samuel/Documents/string_tools/StringTools/bin/Debug/netcoreapp3.1/StringTools.pdb
+/home/samuel/Documents/string_tools/StringTools/obj/Debug/netcoreapp3.1/StringTools.csproj.AssemblyReference.cache
+/home/samuel/Documents/string_tools/StringTools/obj/Debug/netcoreapp3.1/StringTools.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Documents/string_tools/StringTools/obj/Debug/netcoreapp3.1/StringTools.AssemblyInfoInputs.cache
+/home/samuel/Documents/string_tools/StringTools/obj/Debug/netcoreapp3.1/StringTools.AssemblyInfo.cs
+/home/samuel/Documents/string_tools/StringTools/obj/Debug/netcoreapp3.1/StringTools.csproj.CoreCompileInputs.cache
+/home/samuel/Documents/string_tools/StringTools/obj/Debug/netcoreapp3.1/StringTools.dll
+/home/samuel/Documents/string_tools/StringTools/obj/Debug/netcoreapp3.1/StringTools.pdb
